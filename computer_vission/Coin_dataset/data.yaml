@@ -1,0 +1,9 @@
+names:
+- penny
+- nickel
+- dime
+- quarter
+nc: 4
+path: E:\ostad\computer_vission\Coin_dataset
+train: images/train
+val: images/val
